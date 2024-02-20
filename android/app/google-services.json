@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737972843609",
+    "project_id": "video-chat-702fc",
+    "storage_bucket": "video-chat-702fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737972843609:android:d386ab94321d1484f82d48",
+        "android_client_info": {
+          "package_name": "com.example.video_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737972843609-f28ob5jiga8c8pbkdlt7i5asup9ien29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_chat",
+            "certificate_hash": "fee30d5855ef5c8f89d19578b3d44f5d015dad67"
+          }
+        },
+        {
+          "client_id": "737972843609-tcm1u6llofe6q4aioei42vbdkblt8261.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0yeMzBlHHXbHOwjdOwCGwUG-NrGfpOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737972843609-tcm1u6llofe6q4aioei42vbdkblt8261.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
